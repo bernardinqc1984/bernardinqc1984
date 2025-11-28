@@ -101,4 +101,3 @@ Based on:
 ## 📬 Contact
 
 - 🌐 LinkedIn: [linkedin.com/in/charles-bernardin-zogbelemou](https://www.linkedin.com/in/charles-bernardin-zogbelemou)  
-- ✉️ Available for remote roles in **Singapore, APAC, Canada, USA & Europe**
