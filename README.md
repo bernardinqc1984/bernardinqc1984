@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Charles Bernardin ZOGBELEMOU
 
-**Senior OpenShift/Kubernetes Administrator & Platform Automation Specialist**  
-Montréal & Asie-Pacifique · Open to remote · 🇫🇷 / 🇬🇧
+**Senior OpenShift/Kubernetes Administrator & Platform Automation Specialist**  🇫🇷 / 🇬🇧
 
 I design, automate and secure Kubernetes/OpenShift platforms at scale using **Terraform/OpenTofu, Ansible, GitOps and modern observability stacks** (Prometheus, Grafana, EFK, OpenTelemetry, Jaeger).  
 
