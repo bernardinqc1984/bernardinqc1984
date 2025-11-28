@@ -1,8 +1,79 @@
 # 👋 Hi, I'm Charles Bernardin ZOGBELEMOU
 
-**Senior OpenShift/Kubernetes Administrator & Platform Automation Specialist**  🇫🇷 / 🇬🇧
+**Senior OpenShift/Kubernetes Administrator & Platform Engineer | DevOps Automation | Cloud Platforms**  🇫🇷 / 🇬🇧
+**🏆 Red Hat Certified | Expert in OpenShift 3.x → 4.x migrations | Terraform/OpenTofu Automation | Platform Security**
+
+## About Me
+
+I am a **Senior DevOps / Platform Engineer** with over **11 years of experience** in Linux, DevOps, and Cloud transformation, including **7 years specialized in Kubernetes and OpenShift**.
+
+I design, automate and secure production-grade container platforms across:
+
+- **Bare-Metal**
+
+- **VMware/vSphere**
+
+- **VMware Cloud Director**
+
+- **Cloud Environments (Hybrid)**
+
+My strengths include **Infrastructure-as-Code, enterprise automation, cluster lifecycle management, platform hardening, and advanced observability**.
+
+I have led complete **OpenShift migrations (3.11 → 4.x)**, designed multi-tenant architectures, built full CI/CD automation stacks, and implemented high-security environments (RHACS, Vault/OpenBao, OIDC, NetworkPolicies, etc.).
+
 
 I design, automate and secure Kubernetes/OpenShift platforms at scale using **Terraform/OpenTofu, Ansible, GitOps and modern observability stacks** (Prometheus, Grafana, EFK, OpenTelemetry, Jaeger).  
+
+---
+
+🔥 **Technical Expertise**
+🚀 **Kubernetes & OpenShift**
+
+- OCP 3.11 → 4.x upgrades, installation, lifecycle
+
+- UPI/IPI bare-metal & VMware
+
+- Operators, MachineSets, Ingress/Routers
+
+- OVN-Kubernetes CNI, NetworkPolicies
+
+- ETCD backup automation (Velero/OADP)
+
+🛠 **Automation & IaC**
+
+- **Terraform / OpenTofu** (clusters, networks, storage, vSphere, K8s)
+
+- **Ansible** (post-install, platform automation, config management)
+
+- GitOps (ArgoCD), Jenkins, Tekton
+
+🔐 **Security**
+
+- RHACS (Advanced Cluster Security)
+
+- Vault / OpenBao PKI
+
+- Red Hat Advanced Cluster Management
+
+- Admission Controllers, Compliance, Falco, Policy-based governance
+
+📡 **Observability**
+
+- Prometheus, Grafana, Alertmanager
+
+- EFK (Elasticsearch, Fluentd, Kibana)
+
+- OpenTelemetry
+
+- Logging pipelines (Vector, Fluentbit, Splunk)
+
+💾 **Immutable OS & Linux**
+
+- Fedora CoreOS, Flatcar, RHCOS
+
+- Rocky Linux, Ubuntu, Debian
+
+- Bash, Python, YAML
 
 ---
 
